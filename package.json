@@ -1,0 +1,27 @@
+{
+  "name": "shoukobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shouko.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaccaraShouko/Shouko.git"
+  },
+  "author": "Baccara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BaccaraShouko/Shouko/issues"
+  },
+  "homepage": "https://github.com/BaccaraShouko/Shouko#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "moment": "^2.26.0"
+  },
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "klaw": "^3.0.0"
+  }
+}
